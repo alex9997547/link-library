@@ -1,0 +1,19 @@
+=== AI MODULE ===
+*** Загальні
+https://chatgpt.com/ | Chat GPT | Чат ЖПТ.
+https://gemini.google.com/ | Gemini | Джемені.
+*** Агрегатори
+https://library.phygital.plus/ | library.phygital.plus | Explore 3600+ AI tools.
+https://aaronsim.notion.site/ | aaronsim.notion.site | Generative AI Database: Types, Models, Sector, URL, API & more. 
+  |  | 
+*** Графіка
+https://app.artflow.ai/ | Art Flow | Робиш актора з 10+ фото, далі промти. Користуюся.
+https://www.img2go.com/uk | img2go | AI Creator Studio 2
+https://www.autodraw.com/ | autodraw.com | Крута малювалка.
+https://www.remove.bg/ru/upload | remove.bg | Прибрати фон.
+https://www.midjourney.com/ | midjourney | Створює зображення та відео за текстовими описами.
+*** Зразки промтів
+https://prompthero.com/ | Prompt Hero | Промти героїв.
+  |  | 
+  |  | 
+  |  | 

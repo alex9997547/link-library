@@ -1,0 +1,17 @@
+=== SOFT MODULE ===
+*** Антивіруси
+https://www.virustotal.com/gui/home/url | Virustotal | Перевірити файл чи посилання через базу антивірусів.
+https://www.browserling.com/ | Browserling | Безпечно відкрити сайт у пісочниці.
+  |  | 
+  |  | 
+  |  | 
+*** Форуми
+https://forum.ru-board.com/ | RU Board | Стара російська дошка. Багато корисного. 1С.
+https://www.nado.in/ | Nado In | Все про 1С, але є і інше. 
+  |  | 
+*** Качалки
+  |  | 
+  |  | 
+  |  | 
+  |  | 
+  |  | 

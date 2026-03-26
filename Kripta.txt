@@ -1,0 +1,19 @@
+=== COIN MODULE ===
+*** Агрегатори
+https://coinmarketcap.com/uk/ | CoinMarketCap | Ведущий світовий інформаційно-аналітичний веб-сайт та агрегатор даних по криптовалютах.
+https://www.bestchange.ru/ | bestchange.ru | Агрегатор обімінних пунктів.
+https://www.coingecko.com/uk | coingecko.com | Агрегатор даних по криптовалютах.
+*** Форуми
+https://miningclub.info/ | miningclub.info | Все про крипту. 
+https://forum.bits.media/ | Bits.media | Русскоязычный информационный сайт о Биткоин и других криптовалютах.
+https://bitcointalk.org/index.php?board=10.0 | bitcointalk.org | Биткоин форум.
+*** Біржі
+https://www.binance.com/uk-UA | Binance | Binance. Біржа №1.
+https://yobit.net/ | Yobit.net | Багато альтів. Розіграші.
+https://exmo.com/ru/trade/pro/BTC_USDT  | EXMO | EXMO. Було кидалово.
+https://btc-trade.com.ua/ | BTC TRADE UA | Украинская биржа криптовалют.
+https://www.htx.com/ru-ru/trade | Huobi | НТХ, бувша Huobi. 
+https://trading.bitfinex.com/trading?type=exchange | bitfinex.com | Bitfinex.
+*** Інше
+https://whattomine.com/ | whattomine.com | Калькулятори прибутковості майнінгу.
+https://www.coinwarz.com/  | coinwarz.com | Калькулятори прибутковості майнінгу.

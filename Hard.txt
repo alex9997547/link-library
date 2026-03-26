@@ -1,0 +1,26 @@
+=== HARD MODULE ===
+*** Загальне
+https://remont-aud.net/ | Remont-Aud.net | Мега збірник перевірених прошивок на все. Реєстрація, завантажує за бали.
+https://www.userbenchmark.com/ | UserBenchmark | Рейтинг потужностей залізяк.
+https://4pda.to/forum | 4pda | Мега форум по ремонту і прошивкам гаджетів.
+https://forums.overclockers.ru/ | overclockers.ru | Форум по ремонту компьютерного оборудования своими силами. 
+https://phantom.sannata.org/ | Полигон призраков | Всё о старых компьютерах.
+*** Материнки
+https://www.rom.by/forum | ROM.BY | Прошивка и настройка BIOS, переделка и ремонт материнских плат, БП, видеокарт, HDD
+*** Флешки
+https://www.usbdev.ru/ | USBDEV | Потужний сайт по ремонту флешок. Є все.
+https://flashboot.ru/ | Flashboot | Потужний сайт по ремонту флешок.
+  |  | 
+*** Принтери
+https://resetters.com/?language=ua | Resetters | Прошивки принтерів. Платно. Прога тут: https://printhelp.info/
+http://fix-free.ru/ | Fix Free | Ремонт оргтехніки. Прошивки (треба реєстрація). Закинутий.
+https://printservis.com.ua/ | Printservis | Сервис изготовления fix прошивок для принтеров и МФУ Samsung, Xerox, Dell.
+  |  | 
+  |  | 
+*** Відеокарти
+https://www.rom.by/book/Samouchitel_po_remontu_videokart  | ROM.BY | Стаття по ремонту відях.
+* Калькулятори
+https://www.chipdip.ru/calc/resistor | chipdip | Калькулятор цветовой маркировки резисторов
+https://myproject.com.ua/kolorove-markuvannia-rezystoriv.html | myproject | Калькулятор Резисторів
+
+

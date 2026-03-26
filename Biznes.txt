@@ -1,0 +1,32 @@
+=== BUSINESS MODULE ===
+*** Основні
+https://opt.brain.com.ua | Браїн гурт | Гуртовий Браїн/Гайтер/Комел.
+https://brain.com.ua/ukr | Браїн роздріб | Роздрібний Браїн/Гайтер/Комел.
+https://katran.vn.ua/b2b/login | Катран гурт |Гуртовий Катран.
+https://katran.vn.ua/ | Катран роздріб | Роздрібний Катран.
+https://opt.kpi-market.com/ | K.P.I. гурт | Гуртовий КПІ.
+https://kpi-market.com/ | K.P.I. роздріб | Роздрібний КПІ.
+https://new-partner.vm.ua/index.php?route=account/login_ax | V.M. гурт | В.М. гуртовий Патрона.
+https://patronservice.ua/ | PATRON роздріб | Роздрібний Патрона.
+http://b2b.inteh.ua/login.aspx | D.F.I./Inteh гурт | Гуртовий Д.Ф.І.
+https://dfi.ua/ | D.F.I. роздріб | Роздрібний Д.Ф.І.
+*** МеДок
+https://market.srdp.info/ | Бізнес-кабінет МеДок | Замовлення ліцензій.
+https://praktik.apex.rest/ords/f?p=115:LOGIN_DESKTOP:0:::::&tz=2:00 | Бізнес-кабінет ЦРМ | Робота з клієнтами МеДка.
+https://medoc.ua/ | МеДок офіційний | Офіційний сайт МеДка (Дистрибутиви/Оновлення/Інструкції).
+https://wiki.medoc.ua/ | Вікіпедія МеДка | Вікіпедія МеДка. Вхід через криптопровайдер. Сертифікати Ані.
+http://praktik.vin.ua/ | ПВФ "Практик" | Офіційний сайт фірми "Практик".
+https://uakey.com.ua/ | АЦСК "Україна" | Офіційний сайт АЦСК "Україна". Актуальні ціни на токени.
+*** Вторинні постачальники
+https://b2b.scc.com.ua/login | MAKKON | Витратні матеріали, в основному SCC.
+https://www.itbox.ua/ | ItBox | Підстилка Браїновська.
+https://vktshop.com.ua/ua/ | VKTShop б/в техніка. | Комп'ютерна техніка з Європи. Андрій Педорич. Вінниця на Космонавтів.
+https://vinlaptop.com.ua/ | VinLapTop б/в техніка. | Комп'ютерна техніка з Європи. Вінниця на Юності.
+https://bestdetali.com.ua/ | BestDetali | Запчастини для ноутів. Пару раз щось брав. Контакт у вібері.
+https://itshnik.com.ua/ | Іtshnik | Запчастини для принтерів. Один раз наїбали.
+https://12a.in.ua/ua/ | 12A | Запчастини для принтерів. Брав форматер.
+https://griol.com/ | GRIOL | ВІННИЦЬКИЙ СЕРВІС ВІДНОВЛЕННЯ ДАНИХ, РЕМОНТУ НОУТБУКІВ ТА КОМП'ЮТЕРІВ.
+https://yugcontract.ua/ | yugcontract.ua | ЮГ-контракт.
+*** Фріланс
+https://freelance.ua/ | freelance.ua | Фріланс біржа №1 в Україні.
+

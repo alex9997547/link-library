@@ -1,0 +1,14 @@
+=== AUTO MODULE ===
+*** Навігація
+https://wego.here.com/?map=49.06981,28.2346,12,satellite | Here We GO | Мапа. Є андроїд-додаток.
+https://showmystreet.com/#t6qgi_gqn7r_8o.a_-5f42 | Show My Street | Панорамний перегляд вулиць по всьому світу. 
+https://wikimapia.org/#lang=uk&lat=49.022783&lon=28.117817&z=18&m=w&show=/28165682/Medychna-vulytsia-10 | wikimapia | Вікімапія.
+https://travelgps.com.ua/forum/ | travelgps | Форум все про GPS, мапи, проги, треки...
+*** Запчастини
+https://exist.ua/uk/ | Exist | Підбор запчастин по він-коду. 
+*** Форуми
+https://www.forester-club.com.ua/ | Forester Club | Український Форестер Клуб
+https://mikrob.ru/viewtopic.php?p=231908 | Mikrob.ru | Клуб любителей микроавтобусов и минивэнов. Диагностический разъём и протокол OBD II.
+https://www.drive2.ru/l/431590/ | drive2.ru | Загорелась лампочка R.DIFF TEMP.
+*** Інше
+https://ua.carplates.app/number/AB6767BT | Carplates  | Перевірити автомобіль за Державним номером або VIN кодом. Визначає вартість номеру та авто.

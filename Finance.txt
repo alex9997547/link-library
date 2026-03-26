@@ -1,0 +1,26 @@
+=== FINANCE MODULE ===
+*** Банки
+https://otp24.privatbank.ua/#!/login | Приват 24 бізнес | Приват 24 для бізнесу.
+https://next.privat24.ua/login | Приват 24 приватний | Приват 24 для фізичних осіб.
+https://www.paypal.com/ru/home | PayPal | Платіжна система.
+https://business.portmone.com.ua/ | portmone.com.ua | Платіжна система.
+*** РРО/ЕДО/Податки
+https://webrro.tax.gov.ua/account/login | РРО ДПС | Програмний РРО ДПС.
+https://edo.vchasno.ua | Vchasno | Електроний документообіг.
+https://taxer.ua/uk/ | Taxer | Усе необхідне для підприємця — в одному місці!
+*** Торги
+https://minfin.com.ua/currency/mb/ | MinFin | МінФін: курс міжбанка.
+https://ru.investing.com/currencies/usd-uah-chart | Investing | Курси тргів на форексі.
+https://kurs.com.ua/  | КУРС валют | Курси валют України.
+  |  | 
+  |  | 
+*** Сервіси
+https://id.diia.gov.ua/ | ДІЯ | Портал документів та госпослуг.
+https://myfishka.com/ | Fishka | Фішка, ОККО.
+https://online.wog.ua/ | WOG | WOG бенз.
+https://new.novaposhta.ua/ | Nova Poshta | Нова пошта.
+https://www.ukrposhta.ua/ua | Ukrposhta | Укрпошта.
+https://www.17track.net/uk | 17track.net | УНІВЕРСАЛЬНЕ ВІДСТЕЖУВАННЯ ВІДПРАВЛЕНЬ. Понад 3100 перевізників.
+https://portal.pfu.gov.ua/ | ПФУ | Портал електронних послуг ПФУ,
+https://dmsu.gov.ua/ | ДМС | Державна міграційна служба України. Операції з паспортом.
+https://erb.minjust.gov.ua/ | minjust.gov.ua | Єдиний реєстр боржників.

@@ -1,0 +1,29 @@
+=== KODING MODULE
+*** Загальне
+https://github.com/ | GitHub.com | Кращий репозиторій. Хостинг.
+https://stackoverflow.com | StackOverflow | Пошук рішень помилок та прикладів коду.
+https://www.w3schools.com | W3Schools | Прості приклади та онлайн-редактор. HTML, CSS, Java, Python, SQL...
+https://ru.w3docs.com/ | w3docs.com | Онлайн учебники и справочные материалы по HTML, CSS и JavaScript.
+https://proglib.io/ | proglib.io | Корисні статі.
+*** ПІТОН
+https://www.python.org | Python.org | Офіційний сайт мови Python. Завантаження, документація.
+https://docs.python.org/3/ | Python Docs | Офіційна документація.
+https://proglib.io/p/bystryy-samouchitel-kak-osvoit-python-za-30-minut-2021-01-11 | proglib.io | Самоучитель для начинающих: как освоить Python с нуля за 30 минут.
+https://pythontutor.com/ | pythontutor.com | Візуалізація виконання кода.
+*** ЖАБА
+https://www.oracle.com/java/ | Java (Oracle) | Офіційна сторінка Java.
+https://docs.oracle.com/javase/ | Java Documentation | Документація по Java SE.
+https://spring.io | Spring | Фреймворк для розробки backend.
+https://vertex-academy.com/tutorials/ru/samouchitel-po-java-s-nulya/ | vertex-academy.com | Самоучитель по Java с нуля.
+*** ХТМЛ 
+https://developer.mozilla.org/ru/docs/Web/HTML | MDN Web Docs | HTML, CSS, JS довідник з прикладами.
+https://htmlreference.io | HTML Reference | Швидкий довідник по тегах.
+https://html-color-codes.info/ | html-color-codes | Generate HTML Color Codes.
+https://ru.w3docs.com/uchebnik-html/html-simvoly.html | w3docs.com | HTML Мнемоники.
+https://www.w3schools.com/cssref/pr_border-style.php | w3schools | CSS border-style Property.
+https://www.w3schools.com/cssref/css_websafe_fonts.php | w3schools | CSS Web Safe Fonts.
+https://fonts.google.com/ | Google | Browse Fonts - Google Fonts.
+https://developer.mozilla.org/ru/docs/Learn_web_development/Core/Text_styling/Fundamentals | developer.mozilla | Основы стилизирования текста и шрифта
+https://developer.mozilla.org/ru/docs/Web/CSS/Reference/Selectors/Pseudo-classes | developer.mozilla | Псевдоклассы.
+https://www.tooplate.com/ | tooplate.com | 80+ Free Website Templates for Startups, SaaS & Small Businesses.
+http://htmlweb.ru/java/example.php | htmlweb.ru | Java Script. Примеры. Методы. Функции.

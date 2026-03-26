@@ -1,0 +1,25 @@
+=== USEFUL MODULE ===
+*** Важливо
+https://alerts.in.ua/ | Alerts in UA | Мапа повітряних тривог.
+https://voe.com.ua/disconnection/detailed | voe.com.ua | Графiк вiдключення свiтла.
+*** Погода
+https://pogoda33.ua/%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%96%D0%BC%D0%B5%D1%80%D0%B8%D0%BD%D0%BA%D0%B0/10-%D0%B4%D0%BD%D1%96%D0%B2 | Погода 33 | Погода + метеограма.
+https://sinoptik.ua/pohoda/zhmerynka | Sinoptik | Сіноптик
+https://www.windy.com/?49.009,28.115,12,p:wind | Windy | Крута мапа вітрів та погоди.
+https://meteofor.com.ua/ru/weather-zhmerynka-11860/ | Meteofor | Колишній Гісметіо. Воду вже не показує. Фаза місяця та коли повний.
+https://weather.com/uk-UA/weather/today/l/UPXX1116:1:UP | Weather | Погода + фаза місяця.
+https://www.meteoprog.com/ua/weather/Zhmerynka/| Meteoprog | Погода на місяць.
+https://meteo.ua/ua/72/zhmerinka  | Meteo | Погода на місяць.
+*** Форуми
+https://mipped.com/ | Mipped | Маркетплейси, халява, крипта, ШІ, заробіток...
+https://s1.sharewood.tech/ | SHAREWOOD.BIZ | Шервуд - Скачать бесплатно сливы складчин курсов и книг!
+https://aviso.bz/ | AVISO | Собраны самые простые и легальные методы заработка реальных денег. 
+*** Інше
+https://button.dekel.ru/ | Вирішити всі проблеми | Супер-кнопка.
+https://natribu.org/ | Послати нахуй | НАХУЙ офіційний сайт символічного напрямку.
+https://duckduckgo.com/ | Duck Duck GO | Пошукач без трекерів.
+https://translate.google.com/?hl=ru&sl=en&tl=uk&op=translate | Google Translate | Google перекладач.
+https://tineye.com/ | TinEye | Пошукач по зображенню аналогічних світлин.
+https://ru.savefrom.net/246rR/ | savefrom.net | Легко и быстро скачивать видео и музыку с YouTube.
+https://spotidown.co/ | Spotify Downloader | Download Spotify tracks, playlists & albums as MP3!
+https://elmedtech.com/databook/dragmet/tubes.html | Электроника и Медтехника | Содержание золота, серебра, палладия, платины, тантала и других драгметаллов в электровакуумных и газоразрядных приборах (радиолампах, тиратронах, магнетронах, кинескопах, ЭЛТ, разрядниках, клистронах и т.д.)

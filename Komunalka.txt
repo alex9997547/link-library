@@ -1,0 +1,13 @@
+=== KOMUNALKA MODULE ===
+*** Хата
+https://vn.e-svitlo.com.ua/ | Світло | Особистий кабінет споживача електричної енергії Вінницької області.
+https://my.grmu.com.ua/login | Газмережі | Газмережі - розподіл газу.
+https://my.gas.ua/ | Нафтогаз | Особистий кабінет ГК «Нафтогаз України». 
+https://www.abon.com.ua/user/login | Вода | КП "Жмеринкаводоканал". 
+https://zhmerynka-komunservis.info-gkh.com.ua/cabinet/login | Сміття | Особистий кабінет КП "Жмерикакомунсервіс". ЖКГ.
+https://my.homenet.ua/ | Тирнет | Кабінет користувача ТОВ «НПК «ХОУМ-НЕТ» 
+https://sweet.tv/ | Sweet TV | Світ ТВ. 
+https://b2b-new.kyivstar.ua/ | Kyivstar | Київстар корпорація.
+*** Інше
+ |  |  
+ |  |  

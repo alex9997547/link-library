@@ -1,0 +1,25 @@
+=== LAN MODULE ===
+*** ІР-сервіси
+https://2ip.ua/ua/ | 2ip.ua | Дуже багатий функціонал.
+https://whoer.net/ru | whoer.net | Моментальная проверка IP. Узнать мой IP адрес, оценить конфиденциальность соединения, устранить утечки IP и DNS.
+https://www.whatsmyip.org/ | whatsmyip | IP services.
+https://ip2cidr.com/ | IP to CIDR | Convert IP addresses to CIDR online.
+https://ping.eu/ | ping.eu | Network calculator, Network mask calculator, Online Ping, Traceroute, DNS lookup, WHOIS, Port check, Reverse lookup, Proxy checker, Bandwidth meter, Country by IP, Unit converter.
+https://www.speedtest.net/ru | speedtest.net | Тест швидкості інтернета. 
+  |  | 
+
+*** MikroTik
+https://www.technotrade.com.ua/Articles/mikrotik_router_setup.php#enter_setup | Technotrade | Багато матеріалу по налаштуванню мікротів і не тільки. 
+  |  | 
+  |  | 
+*** Форуми
+  |  | 
+  |  | 
+*** Домени, хостінг
+https://nic.ua/ru/domains/.pp.ua | NIC.UA | Бесплатный домен .PP.UA
+https://free.1gb.ua/ | free.1gb.ua | Безкоштовний хостинг з доменом.
+*** Віддалений робочий стіл
+https://anydesk.com/ru | anydesk | Шустра, після певної кількості блокується до переустановки.
+https://www.teamviewer.com/ru-cis/ | teamviewer | Стара школа.
+https://vpn.net/ | hamachi | Зробити локалку через VPN.
+https://secure.logmein.com/ | logmein | Віддалений доступ (зокрема популярного інструменту Hamachi).
